@@ -8,3 +8,10 @@
 Приложение выводит на экран текущее потребление ресурсов 
 
 ![](resources/cpu_example.jpg)
+
+## Requirements
+- iOS 14.2+
+- xCode 12.2+
+
+
+
