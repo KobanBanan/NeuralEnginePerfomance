@@ -19,6 +19,13 @@
 - iOS 14.2+
 - xCode 12.2+
 
+## Profiler 
+
+![](resources/profiler.png)
+
+## System Load
+![](resources/systemload.png)
+
 
 ## Starry Blue 
 
@@ -35,3 +42,8 @@
 
 
 ![](resources/strong.gif)
+
+
+
+## Вывод
+Аппаратный блок Neural Engine показывает 9-кратный прирост производительности, по сравнении с CPU
