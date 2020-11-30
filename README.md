@@ -18,3 +18,6 @@
 ![](resources/starryBlue.gif)
 
 
+## Strong Blue 
+
+![](resources/strong.gif)
