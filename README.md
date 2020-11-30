@@ -15,6 +15,6 @@
 
 
 ## Starry Blue 
-![](resources/starryBlue.gif.jpg)
+![](resources/starryBlue.gif)
 
 
