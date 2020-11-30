@@ -19,6 +19,9 @@
 - iOS 14.2+
 - xCode 12.2+
 
+## Device
+Любой Iphone c Apple A11 или старше 
+
 ## Profiler 
 
 ![](resources/profiler.png)
