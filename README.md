@@ -6,3 +6,4 @@
   - NPU Neural Engine
  
 Приложение выводит на экран текущее потребление ресурсов 
+![](resources/cpu_example.jpg)
