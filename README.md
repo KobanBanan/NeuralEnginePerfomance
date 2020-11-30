@@ -21,9 +21,11 @@
 
 
 ## Starry Blue 
+Пиковое значение загрузки CPU (чистое выполнение на CPU ) ~ 430%  
 ![](resources/starryBlue.gif)
 
 
 ## Strong Blue 
+Пиковое значение загрузки CPU (чистое выполнение на CPU ) ~ 450%  
 
 ![](resources/strong.gif)
