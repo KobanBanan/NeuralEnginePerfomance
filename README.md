@@ -1,3 +1,6 @@
 Сравнение производительности нейронной сети в устройстве ISO и использованием GPU / CPU / Neural Engine.
-<br>
-Приложение использует Style Transfer модель (starry / strong)
+Приложение использует Style Transfer model (starry / strong)
+Возможные опции:
+  - графический процессор GPU
+  - центральный процессор CPU
+  - NPU
