@@ -24,9 +24,12 @@
 
 ## Profiler 
 
+Профилирование GPU vs Neural Engine 
 ![](resources/profiler.png)
 
 ## System Load
+
+Загруженность системы GPU vs Neural Engine 
 ![](resources/systemload.png)
 
 
