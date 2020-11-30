@@ -1,6 +1,6 @@
 # NeuralEnginePerfomance
 
-Сравнение производительности нейронной сети в устройстве ISO и использованием GPU / CPU / Neural Engine.
+Сравнение производительности нейронной сети в устройстве IOS и использованием GPU / CPU / Neural Engine.
 Приложение использует Style Transfer model (starry / strong)
 Возможные опции:
   - графический процессор GPU
