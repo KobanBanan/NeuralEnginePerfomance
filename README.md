@@ -36,15 +36,18 @@
 ## Starry Blue 
 
 Пиковое значение загрузки CPU (чистое выполнение на CPU ) ~ 430%.
-Загрузка CPU при выполнение на Neural Engine ~ 43 %
 
+Загрузка CPU при выполнение на Neural Engine ~ 43 %
+Картинка при использовании Neural Engine плавная
 ![](resources/starryBlue.gif)
 
 
 ## Strong Blue 
 
 Пиковое значение загрузки CPU (чистое выполнение на CPU ) ~ 450%.  
+
 Загрузка CPU при выполнение на Neural Engine ~ 43 %
+Картинка при использовании Neural Engine плавная
 
 
 ![](resources/strong.gif)
